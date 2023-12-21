@@ -4,10 +4,10 @@
 [![Documentation](https://img.shields.io/docsrs/nagme?logo=docs.rs)](https://docs.rs/nagme)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE-MIT)
 
-Lorem ipsum dolor sit amet
+super pedantic linting that is easy to enabled & easy to maintain
 
 ## Usage
-1. consectetur adipiscing elit
+1. Lorem ipsum dolor sit amet
    ```rust
    ```
 

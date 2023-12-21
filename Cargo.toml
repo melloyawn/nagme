@@ -1,0 +1,27 @@
+[package]
+name = "nagme"
+description = "super pedantic linting that is easy to enabled and easy to maintain"
+authors = ["melloyawn <contact@melloyawn.com>"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+homepage = "https://github.com/melloyawn/nagme"
+repository = "https://github.com/melloyawn/nagme"
+
+categories = [
+    "development-tools",
+    "development-tools::testing",
+    "no-std",
+    "rust-patterns",
+]
+
+keywords = [
+    "clippy",
+    "correctness",
+    "linting",
+    "pedantic",
+]
+
+[lib]
+proc-macro = true
